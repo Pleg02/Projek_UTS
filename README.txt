@@ -1,14 +1,5 @@
 WEB SERVER KELOMPOK 4 PBP
 
-CARA MENJALANKAN:
-1. Ekstrak ZIP.
-2. Buka folder hasil ekstrak di Visual Studio Code.
-3. Pastikan app.js dan package.json berada langsung di folder yang sama.
-4. Buka Terminal > New Terminal.
-5. Jalankan: npm install
-6. Setelah selesai: npm start
-7. Buka browser: http://localhost:3000/beranda
-
 ENDPOINT:
  /beranda  = halaman sambutan
  /identitas = identitas kelompok
